@@ -1,0 +1,15 @@
+# Backend dependencies
+node_modules
+
+# Frontend dependencies
+client/node_modules
+
+# Environment files
+config/dev.env
+config/.env
+
+# VS Code
+.vscode/
+
+# Uploads
+uploads/
